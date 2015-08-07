@@ -1,0 +1,11 @@
+eclipse.preferences.version=1
+environment/project/0.1203951729/PATH/delimiter=\:
+environment/project/0.1203951729/PATH/operation=append
+environment/project/0.1203951729/PATH/value=/home/dev/esp8266/esp-open-sdk/xtensa-lx106-elf/bin
+environment/project/0.1203951729/append=true
+environment/project/0.1203951729/appendContributed=true
+environment/project/0.835969657/PATH/delimiter=\:
+environment/project/0.835969657/PATH/operation=append
+environment/project/0.835969657/PATH/value=/home/dev/esp8266/esp-open-sdk/xtensa-lx106-elf/bin
+environment/project/0.835969657/append=true
+environment/project/0.835969657/appendContributed=true
